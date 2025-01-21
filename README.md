@@ -249,7 +249,7 @@ Error: unable to stop zeek: /usr/local/zeek/share/zeekctl/scripts/helpers/stop: 
 
 ## Conclusion
 
-You have now successfully installed and verified Zeek on Ubuntu. If you run into any other issues, feel free to consult the Zeek documentation or ask for help.
+You have now successfully installed and verified Zeek on Ubuntu.
 
 
 
